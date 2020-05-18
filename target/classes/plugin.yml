@@ -1,0 +1,13 @@
+name: UsernameTooltip
+version: 1.0-SNAPSHOT
+main: me.samkist.usernametooltip.KarismicTooltip
+api-version: 1.13
+authors: [Samkist]
+description: Tooltip
+website: https://www.karismicmc.com/
+
+commands:
+  tooltip:
+    usage: /<command> reload
+    description: Currently only for reloading
+    permission: tooltip.reload

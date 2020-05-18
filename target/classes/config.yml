@@ -1,0 +1,6 @@
+#Place tooltip lines here.
+tooltip:
+  - "&7Displayname&8: &c%displayname%"
+  - "&7Username&8: &c%playername%"
+#Message prefix
+format: "&f%playername% &8»&7" #Last color is message color
